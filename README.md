@@ -1,5 +1,3 @@
-Berikut adalah laporan latihan UTS Pemrograman Berorientasi Objek
-
 # LAPORAN LATIHAN UTS PEMROGRAMAN BERORIENTASI OBJEK
 
 👨‍🏫 **Dosen Pembimbing**: Bayu Adi Nugroho, Ph.D  
